@@ -18,7 +18,7 @@ The settings of can be found in file `utils/const.py`.
 ## Quick Start
 
 ### 1. Download data
-Download and unzip the processed data [Amazon](https://pan.baidu.com/s/1mXzVD8tjeD0wyOS879xGWA?pwd=3rbm). Place data files in the folder `data`.
+Download and unzip the processed data [Amazon](https://drive.google.com/drive/folders/1Gt0Gd-sG91w6734EmVE6na4KoPN5YlCP?usp=drive_link). Place data files in the folder `data`.
 
 ### 2. Satisfy the requirements
 The requirements can be found in file `requirements.txt`.
